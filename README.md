@@ -1,4 +1,4 @@
-# note
+# Note
 
 # Papers
 ## Overview
